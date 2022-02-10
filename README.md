@@ -5,7 +5,7 @@ This is a sample application to demonstrate usage of SwiftUI + MVVM + Realm in i
 
 Also this is a useful application to learn new words and their definitions. You can add words and then task a training to memorize them better.
 
-![Screenshot 1](/screenshots/screenshot1.png) ![Screenshot 2](/screenshots/screenshot2.png) ![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 1](/Screenshots/screenshot1.png) ![Screenshot 2](/Screenshots/screenshot2.png) ![Screenshot 3](/Screenshots/screenshot3.png)
 
 ## Widget
 This application has an iOS Widget made in SwiftUI that displays a random word with definition and examples of usage.
